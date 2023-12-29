@@ -13,4 +13,4 @@ Este projeto simula a jornada épica de um herói através de uma floresta perig
 1. Clone o repositório:
 
 ```bash
-git clone
+git clone https://github.com/P3droNasc1mento/Jornada-do-Heoi-.git
